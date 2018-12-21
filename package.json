@@ -1,0 +1,10 @@
+{
+  "name": "ts-lnl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.7.17",
+    "typescript": "^3.2.2"
+  }
+}
